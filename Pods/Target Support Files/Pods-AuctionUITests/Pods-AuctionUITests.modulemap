@@ -1,0 +1,6 @@
+framework module Pods_AuctionUITests {
+  umbrella header "Pods-AuctionUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
